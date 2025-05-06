@@ -42,7 +42,7 @@ A simple and responsive web-based academic planner for students. Easily manage t
 
 ## ✏️ Author
 
-- Name: *Your Name Here*
+- Name: Senamile Rethabile Aphane
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
 - GitHub: [@yourusername](https://github.com/yourusername)
 
